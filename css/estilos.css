@@ -1,0 +1,19 @@
+#titulo {
+    color: blue;
+}
+
+#noticias {
+    margin-top: 200px;
+}
+
+.texto {
+    color: brown;
+}
+
+table tbody tr:nth-child(even){
+    background-color: chartreuse;
+}
+
+table tbody tr:nth-child(odd){
+    background-color:blueviolet;
+}
